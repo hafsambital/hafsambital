@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafsambital
 - 👀 I’m interested in development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate on web development 
 - 📫 mbitalhafssa6@gmail.com
 
